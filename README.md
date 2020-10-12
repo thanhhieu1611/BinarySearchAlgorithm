@@ -1,0 +1,2 @@
+# BinarySearchAlgorithm
+logN algorithm
