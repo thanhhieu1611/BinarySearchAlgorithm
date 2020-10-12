@@ -1,0 +1,6 @@
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\BinarySearchAlgorithm\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe.config
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\BinarySearchAlgorithm\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\BinarySearchAlgorithm\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.pdb
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\BinarySearchAlgorithm\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\BinarySearchAlgorithm\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\BinarySearchAlgorithm\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.pdb
